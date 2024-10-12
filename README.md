@@ -3,7 +3,7 @@
 ## nginx
 
 ```
-docker build -t mediamine/nginx -f nginx/Dockerfile nginx
+docker build -t mediamine/nginx .
 ```
 
 
