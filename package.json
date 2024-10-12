@@ -14,7 +14,7 @@
     "prisma:db:push:mediamine": "prisma db push --schema ./prisma/schema.mediamine.prisma"
   },
   "dependencies": {
-    "@prisma/client": "^5.17.0",
-    "prisma": "^5.17.0"
+    "@prisma/client": "^5.20.0",
+    "prisma": "^5.20.0"
   }
 }
