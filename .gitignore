@@ -133,5 +133,16 @@ dist
 # certs
 *.pem
 
+.DS_Store
+
 # nginx
 nginx/public
+
+# pg_dump
+.dump
+
+# prisma
+.prisma
+
+# logs
+nestjs/logs/.*
