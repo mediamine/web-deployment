@@ -46,7 +46,7 @@ services:
     restart: always
 
   mediamine-web-db:
-    image: postgres:16.4
+    image: postgres:17.2
     container_name: mediamine-web-db
     ports:
       - 5434:5432
